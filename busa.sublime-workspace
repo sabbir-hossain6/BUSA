@@ -1,0 +1,1161 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c_de",
+				"c_dept"
+			],
+			[
+				"c",
+				"c_id"
+			],
+			[
+				"new",
+				"newConfession"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"cone",
+				"confessions"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"add",
+				"addLoading"
+			],
+			[
+				"drop",
+				"dropLoading"
+			],
+			[
+				"loa",
+				"loader_icon"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"cop",
+				"copyFunction"
+			],
+			[
+				"se",
+				"selectedCourseId"
+			],
+			[
+				"bt",
+				"btnGroup"
+			],
+			[
+				"butt",
+				"buttonGroup"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"show",
+				"showConsoleCode"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"hea",
+				"headerName"
+			],
+			[
+				"sel",
+				"selectedCourse"
+			],
+			[
+				"selec",
+				"selectedIndex"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"inpu",
+				"input-name"
+			],
+			[
+				"inp",
+				"input-id"
+			],
+			[
+				"ava",
+				"availability"
+			],
+			[
+				"orde",
+				"orderid"
+			],
+			[
+				"order",
+				"orders"
+			],
+			[
+				"Modi",
+				"modify_order"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"q",
+				"Query"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ord",
+				"orderStatus"
+			],
+			[
+				"or",
+				"orderStatus"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"use",
+				"userID"
+			],
+			[
+				"ce",
+				"cell"
+			],
+			[
+				"tot",
+				"totalAmount"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"addr",
+				"address"
+			],
+			[
+				"us",
+				"userID"
+			],
+			[
+				"_S",
+				"_SESSION"
+			],
+			[
+				"produc",
+				"product"
+			],
+			[
+				"mod",
+				"modifyQuery"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"onC",
+				"onclick\tAttr"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"las",
+				"last-name"
+			],
+			[
+				"fir",
+				"first-name"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"bu",
+				"bulkPrice"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"image",
+				"imageArray"
+			],
+			[
+				"a",
+				"array\t$… = array (…)"
+			],
+			[
+				"im",
+				"img1"
+			],
+			[
+				"thum",
+				"thumb"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"mys",
+				"mysql_error"
+			],
+			[
+				"mysql_",
+				"mysql_query"
+			],
+			[
+				"mac",
+				"macbookpro"
+			],
+			[
+				"mae",
+				"margin-left\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"ca",
+				"carousel"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"fa",
+				"fa-2x"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Controllers/annonymous.php",
+			"settings":
+			{
+				"buffer_size": 1850,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Views/anonymous.php",
+			"settings":
+			{
+				"buffer_size": 22470,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Views/confessions.php",
+			"settings":
+			{
+				"buffer_size": 2708,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Views/viewConfession.php",
+			"settings":
+			{
+				"buffer_size": 5586,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Controllers/viewConfession.php",
+			"settings":
+			{
+				"buffer_size": 278,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n  \t<title><?php echo $title; ?></title>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <link rel=\"shortcut icon\" href=\"https://www.bracu.ac.bd/sites/default/files/favicon_0.png\" type=\"image/png\" />\n    <link href=\"https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900\" rel=\"stylesheet\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/bootstrap.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"scss/style.scss\">\n<!--\t\t<link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css\">  -->\n    <link rel=\"stylesheet\" href=\"css/fontawesome/css/fontawesome.css\">\n    <link rel=\"stylesheet\" href=\"css/fontawesome/css/all.css\">\n    <link href=\"https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap\" rel=\"stylesheet\">\n\t\t<link rel=\"stylesheet\" href=\"css/style.css\">\n  </head>\n  <body>\n\t\t<?php \n      include('../Controllers/userDetails.php');\n     ?>\n\n\n\t\t<div class=\"wrapper d-flex align-items-stretch\">\n\t\t\t<nav id=\"sidebar\">\n\t\t\t\t<div class=\"sticks\">\n  \t  \t\t<div class=\"img bg-wrap text-center py-4\" style=\"background-image: url(images/bg_1.jpg);\">\n  \t  \t\t\t<div class=\"user-logo\">\n  \t  \t\t\t\t<div class=\"img\" style=\"background-image: url(<?php echo $profile_picture; ?>);\"></div>\n  \t  \t\t\t\t<h3><?php echo $full_name; ?></h3>\n  \t  \t\t\t</div>\n  \t  \t\t</div>\n          <ul class=\"list-unstyled components mb-5\">\n            <li class=\"active\">\n              <a href=\"index.php\"><span class=\"fa fa-home mr-3\"></span> Home</a>\n            </li>\n            <li>\n              <a href=\"anonymous.php\"><span class=\"fas fa-envelope mr-3 notif\"><small class=\"d-flex align-items-center justify-content-center\">0</small></span> Anonymous Message</a>\n            </li>\n            <li>\n              <a href=\"confessions.php\"><span class=\"fas fa-dove mr-3\"></span> Confessions</a>\n            </li>\n            <li>\n              <a href=\"#\"><span class=\"fas fa-image mr-3\"></span> RS Memories <small>(Upcoming)</small></a>\n            </li>\n            <li>\n              <a href=\"#\"><span class=\"fas fa-chalkboard-teacher mr-3\"></span> Faculty & Review <small>(Upcoming)</small></a>\n            </li>\n            <li>\n              <a href=\"#\"><span class=\"fas fa-sync-alt mr-3\"></span> Lost & Found <small>(Upcoming)</small></a>\n            </li>\n            <li>\n              <a href=\"#\"><span class=\"fas fa-newspaper mr-3\"></span> Notice Board <small>(Upcoming)</small></a>\n            </li>\n            <li>\n              <a href=\"#\"><span class=\"fas fa-book-dead mr-3\"></span> Course Materials <small>(Upcoming)</small></a>\n            </li>\n            <li>\n              <a href=\"#\"><span class=\"fas fa-bus mr-3\"></span> Bus Route <small>(Upcoming)</small></a>\n            </li>\n            <li>\n              <a href=\"#\"><span class=\"fas fa-hotel mr-3\"></span> To-lets Finder <small>(Upcoming)</small></a>\n            </li>\n            <li>\n              <a href=\"#\"><span class=\"fas fa-user-friends mr-3\"></span> Travel Mate Finder <small>(Upcoming)</small></a>\n            </li>\n            <li>\n              <a href=\"#\"><span class=\"fas fa-heart mr-3\"></span> Matchmaking <small>(Upcoming)</small> </a>\n            </li>\n          </ul>\n        </div>\n    \t</nav>\n\n        <!-- Page Content  -->\n      <div id=\"content\" class=\"p-4 p-md-4\">\n\n        <nav class=\"navbar navbar-expand-lg navbar-light bg-light sticky-top\">\n          <div class=\"container-fluid\">\n\n            <button type=\"button\" id=\"sidebarCollapse\" class=\"btn btn-dark\">\n              <i class=\"fa fa-bars\"></i>\n              <span class=\"sr-only\">Toggle Menu</span>\n            </button>\n\n            <div class=\"logo-navbar-middle\">\n              <h2 style=\"font-family: 'Cinzel Decorative', cursive;\">BUSA</h2>\n            </div>\n            \n\n            <button class=\"btn btn-dark d-inline-block d-lg-none ml-auto\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                <i class=\"fa fa-bars\"></i>\n            </button>\n\n            <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n              <ul class=\"nav navbar-nav ml-auto text-right\">\n                <?php if ($title == \"Home - BUSA\") {\n                            echo '<li class=\"nav-item active\">\n                              <a class=\"nav-link\" href=\"index.php\">Home</a>\n                          </li>';\n                      }\n                      else{\n                        echo '<li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"index.php\">Home</a>\n                        </li>';\n                      }\n                      if ($title == \"Profile - BUSA\") {\n                          echo '<li class=\"nav-item active\">\n                              <a class=\"nav-link\" href=\"profile.php\">Profile</a>\n                          </li>';\n                      }\n                      else{\n                        echo '<li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"profile.php\">Profile</a>\n                        </li>';\n                      }\n                ?>\n                \n                <li class=\"nav-item\">\n                    <a class=\"nav-link\" href=\"../Models/session/logout.php\">Log out</a>\n                </li>\n              </ul>\n            </div>\n            <div class=\"the-blur\"></div>\n          </div>\n        </nav>\n        <section class=\"\">",
+			"file": "Views/header.php",
+			"file_size": 5618,
+			"file_write_time": 132456138637580546,
+			"settings":
+			{
+				"buffer_size": 5619,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Models/session/login.php",
+			"settings":
+			{
+				"buffer_size": 1100,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Models/session/logout.php",
+			"settings":
+			{
+				"buffer_size": 89,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Models/session/index.php",
+			"settings":
+			{
+				"buffer_size": 170,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Views/newConfession.php",
+			"settings":
+			{
+				"buffer_size": 6549,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Models/newConfession.php",
+			"settings":
+			{
+				"buffer_size": 1704,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Controllers/newConfession.php",
+			"settings":
+			{
+				"buffer_size": 810,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Views/footer.php",
+			"settings":
+			{
+				"buffer_size": 3276,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Views/login.php",
+			"settings":
+			{
+				"buffer_size": 1661,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Controllers/confessions.php",
+			"settings":
+			{
+				"buffer_size": 1848,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/busa",
+		"/Applications/XAMPP/xamppfiles/htdocs/busa/Controllers",
+		"/Applications/XAMPP/xamppfiles/htdocs/busa/Models",
+		"/Applications/XAMPP/xamppfiles/htdocs/busa/Models/session",
+		"/Applications/XAMPP/xamppfiles/htdocs/busa/Views"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/busa/Controllers/userDetails.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bracu/session/signup.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bracu/session/index.php",
+		"/Users/sabbir/Downloads/USIS Advising/liveShow.html",
+		"/Users/sabbir/Downloads/USIS Advising/removeShort.js",
+		"/Users/sabbir/Downloads/USIS Advising/addByRepeatEfficient.js",
+		"/Users/sabbir/Downloads/USIS Advising/repeatedCourse.js",
+		"/Users/sabbir/Downloads/USIS Advising/liveDropSimplified.js",
+		"/Users/sabbir/Downloads/USIS Advising/removeCourseUpdated.js",
+		"/Users/sabbir/Downloads/USIS Advising/all_courses.html",
+		"/Users/sabbir/Downloads/USIS Advising/live.html",
+		"/Users/sabbir/Downloads/USIS Advising/removeCourse.js",
+		"/Users/sabbir/Downloads/USIS Advising/swapnil.txt",
+		"/Users/sabbir/Downloads/USIS Advising/add_raw.js",
+		"/Users/sabbir/Downloads/USIS Advising/jscript.txt",
+		"/Users/sabbir/Downloads/USIS Advising/add.js",
+		"/Users/sabbir/Downloads/USIS Advising/BRAC University.htm",
+		"/Users/sabbir/Google Drive/Practice/Spring 2020/CSE712/Project_Work/nlp.py",
+		"/Users/sabbir/Desktop/ai.py",
+		"/Users/sabbir/Google Drive/Practice/Spring 2020/CSE712/nlp.py",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/ipad.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/css/carousel2.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/css/carousal.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/sorting.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/orders-list.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/cart-list.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/admin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/manualOrder.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/product.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/all_products.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/adminLayout.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/server.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/connection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/bracu/gradelayout.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/bracu/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/manageOrders.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/windows.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/iphone.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/imac.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/mb.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/search.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/accessories.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/mbpro.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/mbair.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/cart.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/pagination.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/test.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/gallery.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/products.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/orderComplete.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/address.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/calc.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/delivery.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/payment.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/orders.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/temp.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/panel.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/totalPrice.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/admin2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/admin/index.php",
+		"/Users/sabbir/Downloads/sparna/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/session/server.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/session/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/session/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/session/errors.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ukplanet/regiser.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 262.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(\\[)value-[0-9]+(\\])",
+			"`",
+			"addToDatabase() "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"''",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Controllers/annonymous.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Views/anonymous.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Views/confessions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2480,
+								2480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Views/viewConfession.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Controllers/viewConfession.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Views/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3302,
+								3302
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Models/session/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								457
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Models/session/logout.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Models/session/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Views/newConfession.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4248,
+								4248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1226.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Models/newConfession.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1546,
+								1615
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Controllers/newConfession.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								635,
+								635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Views/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3231,
+								3231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Views/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								905,
+								905
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Controllers/confessions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								839,
+								839
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 155.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "busa.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
